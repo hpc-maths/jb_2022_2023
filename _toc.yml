@@ -1,0 +1,47 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: content/home
+
+parts:
+
+- caption:
+  chapters: 
+  - file: content/mode_emploi
+
+- caption: Chapitre 1
+  chapters:
+  - file: content/chapter/01_float/intro
+    sections:
+     - file: content/chapter/01_float/mpmath
+  - file: content/chapter/01_float/cours
+    sections:
+    - file: content/chapter/01_float/rump
+    - file: content/chapter/01_float/associativite
+    - file: content/chapter/01_float/systeme_lineaire
+    - file: content/chapter/01_float/cond
+    - file: content/chapter/01_float/stability
+  - file: content/chapter/01_float/loin
+    sections:
+    - file: content/chapter/01_float/rump_sagemath.ipynb
+
+- caption: Chapitre 2
+  chapters:
+  - file: content/chapter/02_interp/intro
+    sections:
+    - file: content/chapter/02_interp/exemples
+  - file: content/chapter/02_interp/cours
+    sections:
+    - file: content/chapter/02_interp/runge
+    - file: content/chapter/02_interp/newton
+  - file: content/chapter/02_interp/loin
+
+- caption: Petites Classes
+  chapters:
+  - file: content/pc/pc1
+    title: PC 1
+
+- caption: Tutorat Python
+  chapters:
+  - file: content/tutorial/tuto_01

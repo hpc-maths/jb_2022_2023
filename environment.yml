@@ -1,0 +1,12 @@
+name: jb_map412
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book
+  - numpy
+  - mpmath
+  - plotly
+  - matplotlib
+  - bokeh
+  - scipy
+  - sage
