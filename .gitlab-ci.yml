@@ -7,7 +7,7 @@ pages:
   - jupyter-book build . 
   - mv _build/html/ public/
   only:
-  - master
+  - main
   artifacts:
     paths:
     - public/
