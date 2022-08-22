@@ -6,4 +6,4 @@ Le lecteur trouvera dans ce chapitre du JupyterBook des exemples permettant d’
 
 Afin de pouvoir analyser l’influence des erreurs d’arrondi sur les résultats, il est pratique de pouvoir mener des calculs à précision fixée par l’utilisateur et on s’appuie sur le module mpmath qui est présenté dans [le premier notebook de cette section](./mpmath.ipynb). 
 
-[Le deuxième notebook](sagemath_rump.ipynb) présente succintement le logiciel SageMath. Il permet, entres autres, de faire des calculs exacts dans l’anneau des fractions rationnelles à valeurs rationnelles ce qui est illustré dans la cas de l'évaluation d'une fonction. 
+[Le deuxième notebook](sagemath_rump.ipynb) présente succintement le logiciel SageMath. Il permet, entre autres, de faire des calculs exacts dans l’anneau des fractions rationnelles à valeurs rationnelles ce qui est illustré dans le cas de l'évaluation d'une fonction. 
