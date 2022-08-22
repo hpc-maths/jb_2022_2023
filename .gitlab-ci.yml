@@ -4,6 +4,7 @@ pages:
   script:
   - conda env create -f environment.yml
   - source activate jb_map412
+  - export SETUPTOOLS_USE_DISTUTILS=stdlib
   - jupyter-book build . 
   - mv _build/html/ public/
   only:
