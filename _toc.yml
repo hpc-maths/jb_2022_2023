@@ -23,16 +23,17 @@ parts:
     - file: content/chapter/01_float/stability
   - file: content/chapter/01_float/challenge_rump
 
-#- caption: Chapitre 2
-  #chapters:
-  #- file: content/chapter/02_interp/intro
-    #sections:
-    #- file: content/chapter/02_interp/exemples
-  #- file: content/chapter/02_interp/cours
-    #sections:
-    #- file: content/chapter/02_interp/runge
-    #- file: content/chapter/02_interp/newton
-  #- file: content/chapter/02_interp/loin
+- caption: Chapitre 2
+  chapters:
+  - file: content/chapter/02_interp/intro
+    sections:
+    - file: content/chapter/02_interp/examples
+  - file: content/chapter/02_interp/notions
+    sections:
+    - file: content/chapter/02_interp/runge
+    - file: content/chapter/02_interp/cond
+    - file: content/chapter/02_interp/stability
+  - file: content/chapter/02_interp/loin
 
 - caption: Petites Classes
   chapters:
