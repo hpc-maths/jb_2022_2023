@@ -34,6 +34,8 @@ parts:
     - file: content/chapter/02_interp/cond
     - file: content/chapter/02_interp/stability
   - file: content/chapter/02_interp/loin
+    sections:
+    - file: content/chapter/02_interp/interp_runge
 
 - caption: Petites Classes
   chapters:
