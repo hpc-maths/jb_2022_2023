@@ -36,6 +36,7 @@ parts:
   - file: content/chapter/02_interp/loin
     sections:
     - file: content/chapter/02_interp/interp_runge
+  - file: content/chapter/02_interp/challenge_interp
 
 - caption: Petites Classes
   chapters:
