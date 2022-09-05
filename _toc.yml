@@ -40,6 +40,19 @@ parts:
     - file: content/chapter/02_interp/interp_sin
   - file: content/chapter/02_interp/challenge_interp
 
+- caption: Chapitre 3
+  chapters:
+  - file: content/chapter/03_integ/intro
+    sections:
+    - file: content/chapter/03_integ/quad
+  - file: content/chapter/03_integ/notions
+    sections:
+    - file: content/chapter/03_integ/ordre
+    - file: content/chapter/03_integ/erreur
+  - file: content/chapter/03_integ/loin
+    sections:
+    - file: content/chapter/03_integ/adapt
+
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1

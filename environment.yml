@@ -9,4 +9,5 @@ dependencies:
   - matplotlib
   - bokeh
   - scipy
+  - quadpy
   - sage=9.4
