@@ -52,6 +52,7 @@ parts:
   - file: content/chapter/03_integ/loin
     sections:
     - file: content/chapter/03_integ/adapt
+  - file: content/chapter/03_integ/challenge_integ
 
 - caption: Petites Classes
   chapters:
