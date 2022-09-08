@@ -60,6 +60,8 @@ parts:
     title: PC 1
   - file: content/pc/pc2
     title: PC 2
+  - file: content/pc/pc3
+    title: PC 3
 
 - caption: Tutorat Python
   chapters:
