@@ -54,6 +54,12 @@ parts:
     - file: content/chapter/03_integ/adapt
   - file: content/chapter/03_integ/challenge_integ
 
+- caption: Chapitre 4
+  chapters:
+  - file: content/chapter/04_direct_lin_sys/intro
+    sections:
+    - file: content/chapter/04_direct_lin_sys/exemples
+
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
