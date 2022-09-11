@@ -59,6 +59,11 @@ parts:
   - file: content/chapter/04_direct_lin_sys/intro
     sections:
     - file: content/chapter/04_direct_lin_sys/exemples
+  - file: content/chapter/04_direct_lin_sys/notions
+    sections:
+    - file: content/chapter/04_direct_lin_sys/pivot
+    - file: content/chapter/04_direct_lin_sys/sys_lin_sage
+    - file: content/chapter/04_direct_lin_sys/storage
 
 - caption: Petites Classes
   chapters:
