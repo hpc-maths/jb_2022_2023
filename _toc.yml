@@ -63,6 +63,8 @@ parts:
     sections:
     - file: content/chapter/04_direct_lin_sys/pivot
     - file: content/chapter/04_direct_lin_sys/sys_lin_sage
+  - file: content/chapter/04_direct_lin_sys/loin
+    sections:
     - file: content/chapter/04_direct_lin_sys/storage
 
 - caption: Petites Classes
