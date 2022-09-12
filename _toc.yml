@@ -66,6 +66,7 @@ parts:
   - file: content/chapter/04_direct_lin_sys/loin
     sections:
     - file: content/chapter/04_direct_lin_sys/storage
+  - file: content/chapter/04_integ/challenge
 
 - caption: Petites Classes
   chapters:
