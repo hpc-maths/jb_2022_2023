@@ -68,6 +68,20 @@ parts:
     - file: content/chapter/04_direct_lin_sys/storage
   - file: content/chapter/04_direct_lin_sys/challenge
 
+- caption: Chapitre 5
+  chapters:
+  - file: content/chapter/05_iterative_lin_sys/intro
+    sections:
+    - file: content/chapter/05_iterative_lin_sys/limite_direct
+  - file: content/chapter/05_iterative_lin_sys/notions
+    sections:
+    - file: content/chapter/05_iterative_lin_sys/methodes
+    - file: content/chapter/05_iterative_lin_sys/gradient
+    - file: content/chapter/05_iterative_lin_sys/poisson1d2d3d
+  - file: content/chapter/05_iterative_lin_sys/loin
+    sections:
+    - file: content/chapter/05_iterative_lin_sys/precondionnement
+
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
