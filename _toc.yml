@@ -81,6 +81,7 @@ parts:
   - file: content/chapter/05_iterative_lin_sys/loin
     sections:
     - file: content/chapter/05_iterative_lin_sys/precondionnement
+  - file: content/chapter/05_iterative_lin_sys/cg
 
 - caption: Petites Classes
   chapters:
