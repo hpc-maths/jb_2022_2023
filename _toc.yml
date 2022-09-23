@@ -93,6 +93,8 @@ parts:
     title: PC 3
   - file: content/pc/pc4
     title: PC 4
+  - file: content/pc/pc5
+    title: PC 5
 
 - caption: Tutorat Python
   chapters:
