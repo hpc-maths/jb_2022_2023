@@ -83,6 +83,20 @@ parts:
     - file: content/chapter/05_iterative_lin_sys/precondionnement
   - file: content/chapter/05_iterative_lin_sys/cg
 
+- caption: Chapitre 6
+  chapters:
+  - file: content/chapter/06_non_linear_eq/intro
+    sections:
+    - file: content/chapter/06_non_linear_eq/exemples
+  - file: content/chapter/06_non_linear_eq/notions
+    sections:
+    - file: content/chapter/06_non_linear_eq/newton_secante
+    - file: content/chapter/06_non_linear_eq/explosion_thermique
+  - file: content/chapter/06_non_linear_eq/loin
+    sections:
+    - file: content/chapter/06_non_linear_eq/newton_modifie
+  - file: content/chapter/06_non_linear_eq/challenge
+
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
